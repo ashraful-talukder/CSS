@@ -1,3 +1,3 @@
 hello
 
-<img src="animation.gif">
+<img src="animation.gif" align="center">
