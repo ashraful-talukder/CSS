@@ -1,16 +1,2 @@
 # CSS
 CSS designs only
-
-
-
-
-
-
-
-
-
-
-
-
-
-
