@@ -1,20 +1,2 @@
 # CSS
 CSS designs only
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
